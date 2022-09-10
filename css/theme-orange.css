@@ -9,7 +9,7 @@ h3 {color: #D2386C; }
 h4 {color: #926AA6; }
 
 .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
-    background-color: #248ec2;
+    background-color: #E9897E;
     color: white;
 }
 
@@ -42,7 +42,7 @@ a[data-toggle="tooltip"] {
     border-color: #015CAE;
 }
 .navbar-inverse .navbar-nav>li>a, .navbar-inverse .navbar-brand {
-    color: white;
+    color: purple;
 }
 
 .navbar-inverse .navbar-nav>li>a:hover, a.fa.fa-home.fa-lg.navbar-brand:hover {
@@ -106,16 +106,16 @@ li.sidebarTitle {
   margin-top:20px;
     font-weight:normal;
     font-size:130%;
-    color: #ED1951;
+    color: green;
     margin-bottom:10px;
     margin-left: 5px;
 
 }
 
 .navbar-inverse .navbar-toggle:focus, .navbar-inverse .navbar-toggle:hover {
-    background-color: #00A170;
+    background-color: #A0DAA9;
 }
 
 .navbar-inverse .navbar-toggle {
-    border-color: #015CAE;
+    border-color: #F5DF4D;
 }
