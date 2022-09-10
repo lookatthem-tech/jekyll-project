@@ -1,5 +1,5 @@
 ---
-title:  Navtabs RYAN EDITING
+title:  Navtabs RYAN 
 tags: [formatting]
 keywords: navigation tabs, hide sections, tabbers, interface tabs
 last_updated: July 3, 2016
