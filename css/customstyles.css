@@ -1,6 +1,6 @@
 body {
     font-size:15px;
-	background-color: red;
+	background-color: #343148;
 }
 
 .bs-callout {
@@ -247,7 +247,7 @@ div#toc ul li {
     list-style: square;
 }
 div#toc ul {
-    background-color: whitesmoke;
+    background-color: #485167;
     padding: 5px;
     border-radius: 5px;
     max-width: 300px;
@@ -424,6 +424,7 @@ ul#mysidebar {
 span.projectTitle {
     font-family: Helvetica;
     font-weight: bold;
+	color: white;
 }
 
 .footer {
@@ -1170,6 +1171,7 @@ h4.panel-title {
 @media (max-width: 1200px) {
     .navbar-header {
         float: none;
+		background-color: #6C244C;
     }
     .navbar-left,.navbar-right {
         float: none !important;
